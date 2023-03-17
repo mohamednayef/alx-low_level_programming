@@ -6,10 +6,10 @@
 int main(void)
 {
 	/**
-	*that is short discription
+	*main - that is short discription
 	*/
 	/**
-	*this descrtion
+	*return: this descrtion
 	*/
 	puts("\"Programming is like building a multilingual puzzle");
 	/**
